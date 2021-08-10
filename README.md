@@ -1,2 +1,2 @@
 # personal-site
-CSS Project for Angela Yu's Bootcamp
+Alfie Lambert Personal Site
